@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Generate friendly messages for first timers
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Allows to create GitHub apps to automate your workflow.
 
 ## Getting started
 
