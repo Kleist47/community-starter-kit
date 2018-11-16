@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Nice first commit
+
+Sweet merge
+
+Welcome to the branch
